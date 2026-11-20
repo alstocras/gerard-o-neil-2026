@@ -1,0 +1,11 @@
+/home/alstocras/repos/gerard-o-neil-2026/src/shock-absorber/target/debug/deps/rand_core-4531018ebefd14d4.d: /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/lib.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/block.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/utils.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/seedable_rng.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/unwrap_err.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/word.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/../README.md
+
+/home/alstocras/repos/gerard-o-neil-2026/src/shock-absorber/target/debug/deps/librand_core-4531018ebefd14d4.rmeta: /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/lib.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/block.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/utils.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/seedable_rng.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/unwrap_err.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/word.rs /home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/../README.md
+
+/home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/lib.rs:
+/home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/block.rs:
+/home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/utils.rs:
+/home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/seedable_rng.rs:
+/home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/unwrap_err.rs:
+/home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/word.rs:
+/home/alstocras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.10.1/src/../README.md:
