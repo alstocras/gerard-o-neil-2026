@@ -16,8 +16,7 @@
   palette.rosewater.rgb,
 )
 
-= Gerard O neil space settlement design competition
+#title[Gerard O neil space settlement design competition]
 
-// put sections here based on what you do (headings are added with =, more = means deeper)
-
-== propulsion
+// to add a new section, create a file in sections/ with the name of the section (all lowercase, with hyphens for spaces). Then, use the following syntax (but replace "propulsion.typ" with your actual filename)
+#include "sections/propulsion.typ"
