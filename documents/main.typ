@@ -16,4 +16,8 @@
   palette.rosewater.rgb,
 )
 
-== why is there nothing here? test test
+= Gerard O neil space settlement design competition
+
+// put sections here based on what you do (headings are added with =, more = means deeper)
+
+== propulsion
